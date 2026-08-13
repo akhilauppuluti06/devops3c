@@ -1,2 +1,2 @@
-www.w3schools.com › git › defaultGit Tutorial - W3Schools
-The tutorial can show examples for GitHub, GitLab, or Bitbucket. The Git commands are mostly the same, but some steps (like connecting to a remote or pushing code) might look a little different
+
+The tutorial can show examples for GitHub, GitLab, or Bitbucket. The Git commands are mostly the same, but some steps (like connecting to a remote or pushing code) might look
